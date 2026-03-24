@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "mcVersion": "1.21.1",
+  "loader": "fabric",
+  "mods": [
+    {
+      "name": "CosmicPings",
+      "filename": "CosmicPings-3.0.0.jar",
+      "version": "3.0.0",
+      "url": "https://raw.githubusercontent.com/turtydood/coin-client-mods/main/CosmicPings-3.0.0.jar"
+    },
+    {
+      "name": "GangPoints",
+      "filename": "GangPoints-1.1.0.jar",
+      "version": "1.1.0",
+      "url": "https://raw.githubusercontent.com/turtydood/coin-client-mods/main/GangPoints-1.1.0.jar"
+    }
+  ]
+}
